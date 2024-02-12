@@ -1,2 +1,1 @@
-# pullrq
-pull requestの練習用です
+# Hello, Pull Request
